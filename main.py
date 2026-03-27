@@ -14,7 +14,7 @@ from aiogram.types import (
     LabeledPrice,
 )
 
-TOKEN = "8610520965:AAFwWbiQzkLJS6-h4LjQjtd_QA2E4w3BWRQ"
+TOKEN = 8610520965:AAFwWbiQzkLJS6-h4LjQjtd_QA2E4w3BWRQ
 PREMIUM_STARS = 10
 PREMIUM_FILE = "premium_users.json"
 GROUPS_FILE = "user_groups.json"
